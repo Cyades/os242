@@ -18,4 +18,4 @@ ZCZC W01 20 L01 Answering PopQuiz in SCELE
 ZCZC W01 20 L64 Helping a friend (Weekly Assignment)
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related 
 ZCZC W01 120 L09 Finishing Weekly Assignments #01
-ZCZC W01 15 L41 Update TXT/mylog.txt
+ZCZC W01 20 L41 Update TXT/mylog.txt
