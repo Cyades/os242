@@ -10,4 +10,12 @@ ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 30 L05 Weekly Quiz
 ZCZC W00 10 L04 GitHub Pages related
+
 ZCZC W01 10 L41 Edit mylog.txt from vi
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related 
+ZCZC W01 120 L09 Weekly Assignments #01
+ZCZC W01 20 L01 Answering PopQuiz in SCELE
+ZCZC W01 20 L64 Helping a friend (Weekly Assignment)
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related 
+ZCZC W01 120 L09 Finishing Weekly Assignments #01
+ZCZC W01 15 L41 Update TXT/mylog.txt
