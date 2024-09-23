@@ -30,3 +30,13 @@ ZCZC  W02  60  L05  Quiz related including studying
 ZCZC  W02  120 L09  Finishing Week 2 Assignments
 ZCZC  W02  20  L41  Update TXT/mylog.txt
 ZCZC  W02  50  L08  Chatting About OS related-topic in Discord
+
+ZCZC  W03  10  L43  Reviewing links for myrank.txt
+ZCZC  W03  10  L03  Pull, add, commit, push on GH
+ZCZC  W03  100 L02  CLASSROOM/ZOOM meetings related
+ZCZC  W03  180 L11  Week 3 Assignments
+ZCZC  W03  20  L01  Checking SCELE for updates + answering pop quiz
+ZCZC  W03  100 L02  CLASSROOM/ZOOM meetings related
+ZCZC  W03  30  L05  Quiz related including studying
+ZCZC  W03  20  L41  Update TXT/mylog.txt
+ZCZC  W03  60  L08  Chatting About OS related-topic in Discord
