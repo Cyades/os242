@@ -31,9 +31,17 @@ In this article, you’ll go through the command-line tools grep, sed, and awk. 
 In this link, there will be a list of command for vi editor.
 * [C Language Tutorial](https://www.learn-c.org/){:target="_blank"} ---
 In this link, you'll learn about the C language from zero.
+* [The Linux Programming Interface Preface](https://man7.org/tlpi/download/TLPI-00-Preface.pdf){:target="_blank"} ---
+In this link, you'll study about the preface of the linux programming interface.
+* [File I/O: The Universal I/O Model](https://man7.org/tlpi/download/TLPI-04-File_IO_The_Universal_IO_Model.pdf){:target="_blank"} ---
+In this link, you'll learn about UNIX file I/O system calls, file descriptors, and how to open, close, read, write files, plus standard file descriptors and I/O redirection.
+* [Process Creation](https://man7.org/tlpi/download/TLPI-24-Process_Creation.pdf){:target="_blank"} ---
+In this link, you'll learn about how a process is created and terminates, and how a process can execute a new program.
+* [POSIX Message Queues](https://man7.org/tlpi/download/TLPI-52-POSIX_Message_Queues.pdf){:target="_blank"} ---
+In this link, you'll learn about POSIX message queues, which allow processes to exchange data in the form of messages.
 
 
 <br>
 <br>
-#### REV: Fri 20 Sep 2024 20:01
+#### REV: Mon 30 Sep 2024 13:52
 <hr>
