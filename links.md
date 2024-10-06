@@ -39,6 +39,11 @@ In this link, you'll learn about UNIX file I/O system calls, file descriptors, a
 In this link, you'll learn about how a process is created and terminates, and how a process can execute a new program.
 * [POSIX Message Queues](https://man7.org/tlpi/download/TLPI-52-POSIX_Message_Queues.pdf){:target="_blank"} ---
 In this link, you'll learn about POSIX message queues, which allow processes to exchange data in the form of messages.
+* [What is a Thread](https://www.youtube.com/watch?v=RDr7xCunN80&ab_channel=iFocusInstitute){:target="_blank"} ---
+In this link, will be explaining the concept of process and thread in operating systems.
+* [Kernotex's LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315){:target"_blank"} ---
+In this link, you'll go through a Kernotex's playlist of Linux From Scratch tutorials.
+
 
 
 <br>
