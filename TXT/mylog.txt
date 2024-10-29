@@ -60,3 +60,14 @@ ZCZC  W05  100 L02  CLASSROOM/ZOOM meetings related
 ZCZC  W05  100 L05  Quiz related including studying
 ZCZC  W05  90  L08  Chatting About OS related-topic in Discord
 ZCZC  W05  20  L41  Update TXT/mylog.txt
+
+ZCZC  W06  10  L43  Reviewing links for myrank.txt
+ZCZC  W06  10  L03  Pull, add, commit, push on GH
+ZCZC  W06  100 L02  CLASSROOM/ZOOM meetings related
+ZCZC  W06  150 L16  Week 6 Assignments
+ZCZC  W06  20  L01  Checking SCELE for updates + answering pop quiz
+ZCZC  W06  100 L02  CLASSROOM/ZOOM meetings related
+ZCZC  W06  75  L06  GSGS about fork and TARBALL, also finding useful links
+ZCZC  W06  90  L05  Quiz related including studying
+ZCZC  W06  80  L08  Chatting About OS related-topic in Discord
+ZCZC  W06  20  L41  Update TXT/mylog.txt

@@ -43,7 +43,12 @@ In this link, you'll learn about POSIX message queues, which allow processes to 
 In this link, will be explaining the concept of process and thread in operating systems.
 * [Kernotex's LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315){:target"_blank"} ---
 In this link, you'll go through a Kernotex's playlist of Linux From Scratch tutorials.
-
+* [Fork in Linux](https://man7.org/linux/man-pages/man2/fork.2.html){:target"_blank"} ---
+In this link, you'll go through a manial about fork() in Linux system programming.
+* [Shared Memory in Linux](https://dev.to/0xog_pg/using-shared-memory-in-linux-1p62){:target"_blank"} ---
+In this link, you'll learn about how shared memory in Linux enables efficient inter-process communication, its benefits, relevant functions, security risks, and best practices for safe data handling.
+* [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/){:target"_blank"} ---
+In this link, you'll be provided a series of power point of the Operating System Concepts.
 
 
 <br>
