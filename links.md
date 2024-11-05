@@ -49,6 +49,13 @@ In this link, you'll go through a manial about fork() in Linux system programmin
 In this link, you'll learn about how shared memory in Linux enables efficient inter-process communication, its benefits, relevant functions, security risks, and best practices for safe data handling.
 * [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/){:target"_blank"} ---
 In this link, you'll be provided a series of power point of the Operating System Concepts.
+* [Linux Sync Command](https://phoenixnap.com/kb/linux-sync){:target"_blank"} ---
+In this link, you'll learn how to use the Linus Sync Command with examples.
+* [Linux Process vs Thread](https://www.baeldung.com/linux/process-vs-thread){:target"_blank"} ---
+In this link, you'll learn the difference between a process and thread in the operating system.
+* [Linux Memory Management](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386){:target"_blank"} ---
+In this link, you'll learn about everything you need to know about Linux Memory Management.
+
 
 
 <br>

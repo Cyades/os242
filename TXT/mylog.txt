@@ -71,3 +71,14 @@ ZCZC  W06  75  L06  GSGS about fork and TARBALL, also finding useful links
 ZCZC  W06  90  L05  Quiz related including studying
 ZCZC  W06  80  L08  Chatting About OS related-topic in Discord
 ZCZC  W06  20  L41  Update TXT/mylog.txt
+
+ZCZC  W07  20  L43  Reviewing links for myrank.txt
+ZCZC  W07  10  L03  Pull, add, commit, push on GH
+ZCZC  W07  100 L02  CLASSROOM/ZOOM meetings related
+ZCZC  W07  160 L16  Week 7 Assignments
+ZCZC  W07  45  L01  Checking SCELE for updates + answering pop quiz
+ZCZC  W07  100 L02  CLASSROOM/ZOOM meetings related
+ZCZC  W07  75  L06  GSGS about synchronization, also finding useful links
+ZCZC  W07  90  L05  Quiz related including studying
+ZCZC  W07  80  L08  Chatting About OS related-topic in Discord
+ZCZC  W07  20  L41  Update TXT/mylog.txt
