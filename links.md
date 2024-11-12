@@ -55,7 +55,12 @@ In this link, you'll learn how to use the Linus Sync Command with examples.
 In this link, you'll learn the difference between a process and thread in the operating system.
 * [Linux Memory Management](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386){:target"_blank"} ---
 In this link, you'll learn about everything you need to know about Linux Memory Management.
-
+* [GNU Binutils](https://www.gnu.org/software/binutils/){:target"_blank"} ---
+In this link, you'll be provided an overview of GNU Binutils, a collection of binary tools used primarily for compiling and linking programs in the GNU and GNU/Linux systems, detailing its components, usage, and resources for obtaining, contributing to, and reporting issues with the software.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/){:target"_blank"} ---
+In this link, you'll be explained that Linux From Scratch (LFS) is a project providing step-by-step guidance to build a customizable, compact, and secure Linux system entirely from source, allowing users to learn about and control their system in depth.
+* [Arch Linux](https://archlinux.org/){:target"_blank"} ---
+In this link, you'll be explained that Arch Linux is a minimalist, user-configured Linux distribution focused on simplicity, customization, and cutting-edge updates, using the Pacman package manager and offering a rolling release model for continuous system updates.
 
 
 <br>
